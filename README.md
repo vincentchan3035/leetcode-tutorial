@@ -1,1 +1,3 @@
-# leetcode-tutorial
+# leetcode 
+
+Finish one leetcode question every day.
